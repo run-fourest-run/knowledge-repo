@@ -34,4 +34,7 @@ For more information about the motivation and inspiration behind this project, w
 
 
 
+** Where this currently left off is I'm trying to launch the application 
+with docker to limited success. Copying the instructions found here: 
 
+https://github.com/airbnb/knowledge-repo/issues/401
